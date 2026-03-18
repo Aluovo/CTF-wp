@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RTX 5060运行本地大模型显存溢出分析.md",
+                "file": "ExpressiveNoteWP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RTX 5060运行本地大模型显存溢出分析"
+              "title": "ExpressiveNoteWP"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "36547421b89651ad",
   "lastOpenFiles": [
+    "RTX 5060运行本地大模型显存溢出分析.md",
+    "ExpressiveNoteWP.md",
+    "未命名",
     "Pasted image 20260315191601.png",
     "Pasted image 20260315191414.png",
     "README.md",
